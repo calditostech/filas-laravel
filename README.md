@@ -1,11 +1,11 @@
-# Nome do Projeto
+# Filas de mensagem
 
 Breve descrição do seu projeto e o que ele faz.
 
 ## Tecnologias Utilizadas
 
-- **Laravel 8.x**
-- **MySQL** (ou o banco de dados utilizado)
+- **Laravel 11.x**
+- **SQLite** (ou o banco de dados utilizado)
 - **Docker** (se aplicável)
 - **Redis** (se usado)
 - **Queue e Jobs** no Laravel
@@ -14,9 +14,9 @@ Breve descrição do seu projeto e o que ele faz.
 
 ### Pré-requisitos
 
-- PHP 8.x
+- PHP 8.3
 - Composer
-- MySQL ou qualquer outro banco de dados configurado
+- SQLite ou qualquer outro banco de dados configurado
 - Docker (opcional)
 
 ### Instalação
